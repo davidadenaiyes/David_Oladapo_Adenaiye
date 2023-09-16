@@ -1,6 +1,6 @@
 ![Data Analyst](https://github.com/princeadeakanni/princeadeakanni/blob/main/My%20banner.png)
 
-#I'm Muideen Akanni
+# I'm Muideen Akanni
 ## Data Analyst
 * 📈 Advance Excel
 * 📊 Power Bi
