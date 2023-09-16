@@ -1,6 +1,6 @@
 ### Hi there 👋, Muideen Akanni
 #### Data Analyst
-![Data Analyst](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Data Analyst](https://github.com/princeadeakanni/princeadeakanni/blob/main/My%20banner.png)
 
 My expertise lies in leveraging positive analytical thinking, problem-solving orientation, and research knowledge to drive process improvement and enhance productivity. My background includes strong skills in cross-functional collaboration and team management, as well as database management and data analytics.
 
