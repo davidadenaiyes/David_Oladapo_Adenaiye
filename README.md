@@ -2,13 +2,14 @@
 
 # I'm Muideen Akanni
 ## Data Analyst
+My expertise lies in leveraging positive analytical thinking, problem-solving orientation, and research knowledge to drive process improvement and enhance productivity. My background includes strong skills in cross-functional collaboration and team management, as well as database management and data analytics.
+
+## Skills & Experience 
 * 📈 Advance Excel
 * 📊 Power Bi
 * 📉 Tableau
 * 🏦 SQL
 * 🐍 Python
-
-My expertise lies in leveraging positive analytical thinking, problem-solving orientation, and research knowledge to drive process improvement and enhance productivity. My background includes strong skills in cross-functional collaboration and team management, as well as database management and data analytics.
 
 - 🌱 I’m currently learning Python / Machine Learning / A.I 
 
