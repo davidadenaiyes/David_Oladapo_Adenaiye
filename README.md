@@ -11,6 +11,8 @@ My expertise lies in leveraging positive analytical thinking, problem-solving or
 * 🏦 SQL
 * 🐍 Python
 
-- 🌱 I’m currently learning Python / Machine Learning / A.I 
+- 🌱 I’m currently learning Python / Machine Learning / A.I
+- ## Examples Of Work
+- <img src="https://github.com/princeadeakanni/princeadeakanni/blob/main/Employee%20Attrition.png"width+"256"/>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/princeadeakanni)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/muideenadeakanni//)  
